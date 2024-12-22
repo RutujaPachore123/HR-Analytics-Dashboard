@@ -1,4 +1,4 @@
-# HR-Analytics- Power BI Dashboard
+# HR-Analytics-Dashboard
 **Objective**
 
 
